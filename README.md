@@ -59,9 +59,9 @@ I am a Cloud Engineer with a passion for Robotics, Servers, and building cool st
 
 ### 📫 Get In Touch
 
-- LinkedIn: [https://www.linkedin.com/in/kirti-ranjan-behera-40b65418/](#)
-  Electrowander:- http://www.youtube.com/@ElectroWander
-  LearnGB2TB:- http://www.youtube.com/@learngb2tb
+[LinkedIn](https://www.linkedin.com/in/kirti-ranjan-behera-40b65418/)
+  [Electrowander](http://www.youtube.com/@ElectroWander)
+  [LearnGB2TB](http://www.youtube.com/@learngb2tb)
   
 Feel free to connect with me or check out my repositories!
 
